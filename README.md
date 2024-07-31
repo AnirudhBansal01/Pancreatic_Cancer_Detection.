@@ -62,6 +62,3 @@
 
 ## Contribution
 - Contributions are welcome. Please submit a pull request with detailed descriptions of changes or improvements.
-
-## License
-- This project is licensed under the MIT License.
